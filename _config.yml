@@ -18,16 +18,15 @@ twitter:
 social:
   name: Sandoche Adittane
   links:
-    - https://twitter.com/sandochee
-    - https://www.facebook.com/sandoche
-    - https://www.linkedin.com/in/sandoche
-    - https://plus.google.com/+SandocheADITTANE
-    - https://github.com/sandoche
+    - https://twitter.com/Terry_rockstar
+    - https://fb.com/terryrockstar
+    - https://www.linkedin.com/in/enrique0022/
+    - https://github.com/terry0022
 
-languages: ["en"]
+languages: ["es"]
 ampdir: amp
 
-github: https://github.com/sandoche/Mobile-app-landingpage-template
+github: https://github.com/terry0022/nenek-trivia-landing
 
 ### Google webmaster tools, Google Analytics, Doorbell and Cookie consent uncomment and put the API key
 #webmaster_verifications:
