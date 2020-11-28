@@ -1,16 +1,15 @@
 app:
-  screenshots: Screenshots
-  description: Description
-  featured: Featured in
+  screenshots: Pantallas
+  description: Descripcion
 
 footer:
-  copyright: Made with ❤️ in Europe 🇪🇺 by <a href="https://www.sandoche.com" target="_blank">Sandoche</a>
+  copyright: Hecho con  ❤️  en La Huasteca 🇲🇽  por <a href="https://about.me/enrique.espinoza/getstarted" target="_blank">Terry0022</a>
   links:
     - title: Github
-      url: https://github.com/sandoche/Mobile-app-landingpage-template
+      url: https://github.com/terry0022/nenek-trivia-landing
       target: _blank
-    - title: Donate
-      url: https://paypal.me/kanbanote
+    - title: Donar
+      url: https://paypal.me/terry0022
       target: _blank
-    - title: Privacy
+    - title: Aviso de Privacidad
       url: /privacy
